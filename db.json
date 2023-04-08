@@ -1,0 +1,11 @@
+{
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE2ODA5OTIwNjcsInByaXZpbGVnZXMiOltdLCJyb2xlcyI6W10sInN1YiI6ImRldiJ9.ficUwkFYQ-oIBaFonz2dUIJBlmgx1fqC35oFqRIPGQ8Hdsj2tFP1QarqM89c92-zSzhFZqoOPkHObVk0TxhgKA",
+    "user": {
+        "id": 2,
+        "username": "dev",
+        "firstName": "dev",
+        "email": "dev@getnada.com",
+        "role": "Admin",
+        "image": "assets/images/avatars/profile.jpg"
+    }
+}
